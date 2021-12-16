@@ -21,7 +21,7 @@
 	`escape-key`
 	`ctrl+c`
 	
-# enter prompt for <command-mode>
+# enter prompt for `command-mode`
 	`:`
 	`shift + ; = :`
 		* type command in here
